@@ -1,4 +1,4 @@
-# advent-of-code-2025
+# advent-of-code
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [scully-dana][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
@@ -23,3 +23,5 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [kotlin]: https://kotlinlang.org
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+
+# advent-of-code-2024
