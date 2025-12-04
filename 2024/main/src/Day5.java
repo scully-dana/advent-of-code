@@ -1,3 +1,4 @@
+package main.src;
 import java.util.*;
 
 public class Day5 {
