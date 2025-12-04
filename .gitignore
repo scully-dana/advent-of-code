@@ -1,3 +1,9 @@
+.gradle
+.idea
+.kotlin/
+build
+src/**/*.txt
+local.properties
 # Compiled class file
 *.class
 
